@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b8c611b-487a-4cee-95d6-eed73cc042d1" name="Changes" comment="" />
+    <list default="true" id="3b8c611b-487a-4cee-95d6-eed73cc042d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Eleventh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Third.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eightth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fifth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fiveteen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fourteen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fourth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nineth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seventh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sixth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tenth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thirteen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twelveth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pin.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,12 +42,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "F:/test_git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/test_git&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
